@@ -1,0 +1,58 @@
+:root {
+	--red: 112;
+	--green: 255;
+	--blue: 238;
+}
+
+@font-face { /*Importation de la police de l'horloge*/
+	font-family: "sevseg";
+	src: url("fonts/ds_digital/sevseg.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "bypass";
+	src: url("fonts/bypass/Bypass.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "aldotheapache";
+	src: url("fonts/aldo_the_apache/AldotheApache.ttf") format("truetype");
+}
+
+
+@font-face {
+	font-family: "quartz";
+	src: url("fonts/quartz/Quartz.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "nasa";
+	src: url("fonts/nasa/nasa.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "abnes";
+	src: url("fonts/abnes/abnes.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "conthrax";
+	src: url("fonts/conthrax/conthrax-sb.ttf") format("truetype")
+}
+
+@font-face {
+	font-family: "spaceage";
+	src: url("fonts/space_age/space_age.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "alienleague";
+	src: url("fonts/alien-league-font/AlienLeagueRegular.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "sevensegment";
+	src: url("fonts/seven-segment/SevenSegment.ttf") format("truetype");
+}
+
+
